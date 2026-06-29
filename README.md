@@ -18,6 +18,9 @@ from raw data to a trained Random Forest classifier.
 ## Tech Stack
 Python | NumPy | Pandas | Scikit-learn | Matplotlib | Seaborn
 
+## Dataset
+[Titanic Dataset — Kaggle](https://www.kaggle.com/c/titanic)
+
 ## Files
 - `titanic_eda.ipynb` — Data cleaning and visualization
 - `titanic_model.ipynb` — Model training and evaluation
