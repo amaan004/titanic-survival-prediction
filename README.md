@@ -21,3 +21,9 @@ Python | NumPy | Pandas | Scikit-learn | Matplotlib | Seaborn
 ## Files
 - `titanic_eda.ipynb` — Data cleaning and visualization
 - `titanic_model.ipynb` — Model training and evaluation
+
+
+## What I'd improve with more time
+- Try other algorithms (XGBoost, SVM)
+- Handle class imbalance
+- Tune hyperparameters with GridSearchCV
